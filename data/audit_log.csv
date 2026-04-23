@@ -1,0 +1,11 @@
+Timestamp,Username,Action,Details,IP_Hash
+2026-04-23 08:00:07,UNKNOWN,LOGIN_FAILED,Username 'KOD' not found,b23a6a8439c0
+2026-04-23 08:00:13,UNKNOWN,LOGIN_FAILED,Username 'KOD' not found,b23a6a8439c0
+2026-04-23 08:00:31,UNKNOWN,LOGIN_FAILED,Username 'KOD' not found,b23a6a8439c0
+2026-04-23 08:00:50,admin,LOGIN_FAILED,Wrong password,b23a6a8439c0
+2026-04-23 08:00:58,admin,LOGIN_SUCCESS,Role: admin,b23a6a8439c0
+2026-04-23 08:01:33,admin,PATIENT_ASSESSED,Urgency:HIGH Condition:Meningitis,b23a6a8439c0
+2026-04-23 08:01:34,admin,HISTORY_VIEWED,Viewed 1 records,b23a6a8439c0
+2026-04-23 13:40:58,admin,LOGIN_FAILED,Wrong password,b23a6a8439c0
+2026-04-23 13:41:22,admin,LOGIN_SUCCESS,Role: admin,b23a6a8439c0
+2026-04-23 13:41:22,admin,HISTORY_VIEWED,Viewed 1 records,b23a6a8439c0
